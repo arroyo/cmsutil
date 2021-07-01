@@ -1,2 +1,3 @@
 # cmsutil
-This project has been moved to arroyo/grutil
+
+This project has been moved to https://github.com/arroyo/grutil
